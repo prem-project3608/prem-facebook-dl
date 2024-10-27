@@ -1,3 +1,3 @@
-# **PREM FACEBOOK VIDEO DAWNLOADER**
+# **PREM PROJECT**
 ```bash
 npm install prem-facebook
