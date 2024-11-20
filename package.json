@@ -1,14 +1,14 @@
 {
-  "name": "prem-facebook",
+  "name": "prem-fb-downloader",
   "version": "1.0.14",
   "description": "THIS PROJECT IS MADE BY MR PREM BABU",
-  "main": "index.js",
+  "main": "prem-facebook.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "PREM BABU",
-    "PREM PROJECT",
+    "PREM FACEBOOK",
+    "PREM INSTAGRAM",
     "NPM PREM FACEBOOK",
     "FACEBOOK DAWNLODER",
     "VIDEO DAWNLODER"
