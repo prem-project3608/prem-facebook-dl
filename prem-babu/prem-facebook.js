@@ -1,4 +1,4 @@
-const prem_getFBInfo = (videoUrl, cookie, useragent) => {
+const getFBInfo = (videoUrl, cookie, useragent) => {
 
   const axios = require("axios");
 
