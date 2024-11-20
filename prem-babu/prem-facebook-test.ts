@@ -1,10 +1,10 @@
 export default function getVideoInfo(
 
-    videoUrl: string,
+    prem_videoUrl: string,
 
-    cookie?: string,
+    prem_cookie?: string,
 
-    useragent?: string
+    prem_useragent?: string
 
 ): Promise<VideoInfo>;
 
