@@ -2,7 +2,7 @@
   "name": "prem-fb-downloader",
   "version": "1.0.14",
   "description": "THIS PROJECT IS MADE BY MR PREM BABU",
-  "main": "prem-facebook.js",
+  "main": "prem-babu/prem-facebook.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,5 +18,5 @@
   "dependencies": {
     "axios": "^0.26.1"
   },
-	"types": "index.d.ts"
+	"types": "prem-babu/prem-facebook-test.ts"
 }
