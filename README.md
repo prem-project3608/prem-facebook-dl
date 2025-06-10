@@ -19,11 +19,11 @@
 
 ## NPM INSTALL 
 ```bash
-npm install prem-facebook-dl
+npm install prem-fb-dl
 ```
 ## PREM FACEBOOK EXAMPLE 
 ```js
-const prem_facebook = require("prem-facebook-dl")
+const prem_facebook = require("prem-fb-dl")
 let URL = await prem_facebook("https://www.facebook.com/")
 console.log(URL)
 ```
