@@ -23,7 +23,7 @@ npm install prem-fb-downloader
 ```
 ## PREM FACEBOOK EXAMPLE 
 ```js
-const getFBInfo = require("prem-fb-downloader")
-let URL = await getFBInfo("https://www.facebook.com/")
+const prem_facebook = require("prem-fb-downloader")
+let URL = await prem_facebook("https://www.facebook.com/")
 console.log(URL)
 ```
